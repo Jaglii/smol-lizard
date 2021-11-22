@@ -1,1 +1,2 @@
-# smol-lizard
+# smollizard
+smollizard webiste
